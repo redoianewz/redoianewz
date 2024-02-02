@@ -22,8 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/ouaaziz37653" target="blank"><img align="center" src="https://i.pinimg.com/originals/3a/a8/77/3aa8778a09a2c7de071f6d33aef0a02c.gif" alt="Ouaaziz redoiane" height="35" width="45" /></a>
 <a href="https://www.linkedin.com/in/redoine-ouaaziz-16251b254/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="rishav-chanda-b89a791b3" height="35" width="45" /></a>
-<a href="https://www.instagram.com/ouaaziz975/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.69b12065bc9682843999aeed832d2654?rik=CLRmUrIbFz6OrA&pid=ImgRaw&r=0" alt="rishav_chanda" height="35" width="45" /></a>
-<a href="https://www.youtube.com" target="blank"><img align="center" src="https://th.bing.com/th/id/R.684b5a9a2127159e8c5d627382a5fc35?rik=HtHwf0sDNz8oFQ&pid=ImgRaw&r=0" height="35" width="45" /></a>
+<a href="https://www.instagram.com/ouaaziz975/" target="blank"><img align="center" src="https://i.pinimg.com/originals/3f/29/23/3f2923684f3fc1509a03a327e72764b1.gif" alt="rishav_chanda" height="40" width="50" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://th.bing.com/th/id/R.684b5a9a2127159e8c5d627382a5fc35?rik=HtHwf0sDNz8oFQ&pid=ImgRaw&r=0" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
